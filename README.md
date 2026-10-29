@@ -1,6 +1,6 @@
 # soc-portfolio
 
-# Hi, I'm Zaur 👋
+# Hi, I'm Zaurrust3mov 👋
 
 **Aspiring SOC Analyst | Fraud & Finance Data Background | TryHackMe SOC Level 1 Completed**
 
